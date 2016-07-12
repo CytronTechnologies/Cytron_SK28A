@@ -1,0 +1,149 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=E:\Project\SK28A\SK28A Samples\18F2550 SK28A Bootloader Firmware\hid.o
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc18\v3.41\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|hid.c|main.c|usb9.c|usbctrltrf.c|usbdrv.c|usbdsc.c|usbmmap.c|BootPIC18NonJ.c||<obj>||<lib>||<lkr>|BootModified.18f2550_g.lkr||
+SuiteArgsString=
+ToolArgsString=-pa=4
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=E:\Project\SK28A\SK28A Samples\18F2550 SK28A Bootloader Firmware\main.o
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc18\v3.41\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|hid.c|main.c|usb9.c|usbctrltrf.c|usbdrv.c|usbdsc.c|usbmmap.c|BootPIC18NonJ.c||<obj>||<lib>||<lkr>|BootModified.18f2550_g.lkr||
+SuiteArgsString=
+ToolArgsString=-pa=4
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=E:\Project\SK28A\SK28A Samples\18F2550 SK28A Bootloader Firmware\usb9.o
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc18\v3.41\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|hid.c|main.c|usb9.c|usbctrltrf.c|usbdrv.c|usbdsc.c|usbmmap.c|BootPIC18NonJ.c||<obj>||<lib>||<lkr>|BootModified.18f2550_g.lkr||
+SuiteArgsString=
+ToolArgsString=-pa=4
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=E:\Project\SK28A\SK28A Samples\18F2550 SK28A Bootloader Firmware\usbctrltrf.o
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc18\v3.41\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|hid.c|main.c|usb9.c|usbctrltrf.c|usbdrv.c|usbdsc.c|usbmmap.c|BootPIC18NonJ.c||<obj>||<lib>||<lkr>|BootModified.18f2550_g.lkr||
+SuiteArgsString=
+ToolArgsString=-pa=4
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=E:\Project\SK28A\SK28A Samples\18F2550 SK28A Bootloader Firmware\usbdrv.o
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc18\v3.41\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|hid.c|main.c|usb9.c|usbctrltrf.c|usbdrv.c|usbdsc.c|usbmmap.c|BootPIC18NonJ.c||<obj>||<lib>||<lkr>|BootModified.18f2550_g.lkr||
+SuiteArgsString=
+ToolArgsString=-pa=4
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=E:\Project\SK28A\SK28A Samples\18F2550 SK28A Bootloader Firmware\usbdsc.o
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc18\v3.41\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|hid.c|main.c|usb9.c|usbctrltrf.c|usbdrv.c|usbdsc.c|usbmmap.c|BootPIC18NonJ.c||<obj>||<lib>||<lkr>|BootModified.18f2550_g.lkr||
+SuiteArgsString=
+ToolArgsString=-pa=4
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=E:\Project\SK28A\SK28A Samples\18F2550 SK28A Bootloader Firmware\usbmmap.o
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc18\v3.41\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|hid.c|main.c|usb9.c|usbctrltrf.c|usbdrv.c|usbdsc.c|usbmmap.c|BootPIC18NonJ.c||<obj>||<lib>||<lkr>|BootModified.18f2550_g.lkr||
+SuiteArgsString=
+ToolArgsString=-pa=4
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=E:\Project\SK28A\SK28A Samples\18F2550 SK28A Bootloader Firmware\BootPIC18NonJ.o
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc18\v3.41\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|hid.c|main.c|usb9.c|usbctrltrf.c|usbdrv.c|usbdsc.c|usbmmap.c|BootPIC18NonJ.c||<obj>||<lib>||<lkr>|BootModified.18f2550_g.lkr||
+SuiteArgsString=
+ToolArgsString=-pa=4
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=E:\Project\SK28A\SK28A Samples\18F2550 SK28A Bootloader Firmware\HID Bootloader SK28A PIC18F2550.cof
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc18\v3.41\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|hid.c|main.c|usb9.c|usbctrltrf.c|usbdrv.c|usbdsc.c|usbmmap.c|BootPIC18NonJ.c||<obj>||<lib>||<lkr>|BootModified.18f2550_g.lkr||
+SuiteArgsString=
+ToolArgsString=/m"$(BINDIR_)$(TARGETBASE).map" /w /o"$(BINDIR_)$(TARGETBASE).cof"
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=E:\Project\SK28A\SK28A Samples\18F2550 SK28A Bootloader Firmware\HID Bootloader SK28A PIC18F2550.hex
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc18\v3.41\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|hid.c|main.c|usb9.c|usbctrltrf.c|usbdrv.c|usbdsc.c|usbmmap.c|BootPIC18NonJ.c||<obj>||<lib>||<lkr>|BootModified.18f2550_g.lkr||
+SuiteArgsString=
+ToolArgsString=/m"$(BINDIR_)$(TARGETBASE).map" /w /o"$(BINDIR_)$(TARGETBASE).cof"
+TraceCmdString=
+DebugOptions=
+[File010]
+Location=E:\Project\SK28A\SK28A Samples\18F2550 SK28A Bootloader Firmware\HID Bootloader SK28A PIC18F2550.map
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc18\v3.41\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr||
+SOLK=<src>|hid.c|main.c|usb9.c|usbctrltrf.c|usbdrv.c|usbdsc.c|usbmmap.c|BootPIC18NonJ.c||<obj>||<lib>||<lkr>|BootModified.18f2550_g.lkr||
+SuiteArgsString=
+ToolArgsString=/m"$(BINDIR_)$(TARGETBASE).map" /w /o"$(BINDIR_)$(TARGETBASE).cof"
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{96C98149-AA1B-4CF9-B967-FAE79CAB663C}=C:\Program Files (x86)\Microchip\mplabc18\v3.41\bin\mplink.exe
+tool_loc{E56A1C86-9D32-4DF6-8C34-FE0388B1B644}=C:\Program Files (x86)\Microchip\mplabc18\v3.41\bin\mcc18.exe
